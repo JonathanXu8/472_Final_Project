@@ -1,0 +1,3878 @@
+[
+  {
+    "question_id": "VizWiz_val_00004318.jpg",
+    "single_grounding": 0.0004412840644363314,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002181.jpg",
+    "single_grounding": 0.00017423322424292564,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002683.jpg",
+    "single_grounding": 0.372310608625412,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00004138.jpg",
+    "single_grounding": 0.10261222720146179,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003227.jpg",
+    "single_grounding": 0.5598310232162476,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002420.jpg",
+    "single_grounding": 0.07204357534646988,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003318.jpg",
+    "single_grounding": 0.04467201605439186,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001527.jpg",
+    "single_grounding": 0.5598966479301453,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001725.jpg",
+    "single_grounding": 0.9999288320541382,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003139.jpg",
+    "single_grounding": 0.5598966479301453,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003243.jpg",
+    "single_grounding": 0.9999322891235352,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003634.jpg",
+    "single_grounding": 0.6229701638221741,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00004099.jpg",
+    "single_grounding": 0.5598966479301453,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00000680.jpg",
+    "single_grounding": 0.5598966479301453,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001232.jpg",
+    "single_grounding": 0.5598966479301453,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002342.jpg",
+    "single_grounding": 0.001159172272309661,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00004239.jpg",
+    "single_grounding": 0.5734856128692627,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001294.jpg",
+    "single_grounding": 0.5598966479301453,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003209.jpg",
+    "single_grounding": 0.9999510049819946,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00004144.jpg",
+    "single_grounding": 0.012883986346423626,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002430.jpg",
+    "single_grounding": 0.5598966479301453,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00000381.jpg",
+    "single_grounding": 0.9990216493606567,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003494.jpg",
+    "single_grounding": 0.0657266303896904,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001851.jpg",
+    "single_grounding": 0.5598966479301453,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003071.jpg",
+    "single_grounding": 0.5598966479301453,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003496.jpg",
+    "single_grounding": 0.0006823145668022335,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00004210.jpg",
+    "single_grounding": 0.9952616691589355,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00000316.jpg",
+    "single_grounding": 0.5485098361968994,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002814.jpg",
+    "single_grounding": 0.9999793767929077,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002577.jpg",
+    "single_grounding": 0.2445339560508728,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001627.jpg",
+    "single_grounding": 0.5598966479301453,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00000747.jpg",
+    "single_grounding": 0.5734856128692627,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001788.jpg",
+    "single_grounding": 0.996040940284729,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003971.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003754.jpg",
+    "single_grounding": 0.8880665302276611,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002190.jpg",
+    "single_grounding": 0.3252032995223999,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00000783.jpg",
+    "single_grounding": 0.589833676815033,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003999.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001388.jpg",
+    "single_grounding": 0.4030378758907318,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003734.jpg",
+    "single_grounding": 0.589833676815033,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00000882.jpg",
+    "single_grounding": 0.3973672091960907,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001497.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001883.jpg",
+    "single_grounding": 0.9995493292808533,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001573.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00000408.jpg",
+    "single_grounding": 0.13778159022331238,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002952.jpg",
+    "single_grounding": 0.5738223791122437,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001896.jpg",
+    "single_grounding": 0.0009562948253005743,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001177.jpg",
+    "single_grounding": 0.9999631643295288,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00004310.jpg",
+    "single_grounding": 0.6176155805587769,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001081.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003316.jpg",
+    "single_grounding": 0.6647467613220215,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003394.jpg",
+    "single_grounding": 0.6647467613220215,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002429.jpg",
+    "single_grounding": 0.4565884470939636,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002234.jpg",
+    "single_grounding": 0.18206913769245148,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00004300.jpg",
+    "single_grounding": 0.2902083694934845,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001920.jpg",
+    "single_grounding": 0.06022987514734268,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00000815.jpg",
+    "single_grounding": 0.929578959941864,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003068.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002461.jpg",
+    "single_grounding": 0.7128700613975525,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001406.jpg",
+    "single_grounding": 0.5440894365310669,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003163.jpg",
+    "single_grounding": 0.9998606443405151,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002828.jpg",
+    "single_grounding": 0.6176155805587769,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001316.jpg",
+    "single_grounding": 0.5719437003135681,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001306.jpg",
+    "single_grounding": 0.6176155805587769,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003479.jpg",
+    "single_grounding": 0.589833676815033,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002099.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00004176.jpg",
+    "single_grounding": 0.9986578226089478,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002331.jpg",
+    "single_grounding": 0.10052823275327682,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002323.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003080.jpg",
+    "single_grounding": 0.016512170433998108,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003671.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003221.jpg",
+    "single_grounding": 0.5734856128692627,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001787.jpg",
+    "single_grounding": 0.33749863505363464,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00000382.jpg",
+    "single_grounding": 0.9803691506385803,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002598.jpg",
+    "single_grounding": 0.10261218994855881,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001291.jpg",
+    "single_grounding": 0.5734856128692627,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002439.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003772.jpg",
+    "single_grounding": 0.9999517202377319,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001407.jpg",
+    "single_grounding": 0.06467922776937485,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001562.jpg",
+    "single_grounding": 0.9993788003921509,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003879.jpg",
+    "single_grounding": 0.9999613761901855,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00000814.jpg",
+    "single_grounding": 0.5734856128692627,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002646.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003171.jpg",
+    "single_grounding": 0.6176155805587769,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001386.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002292.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002084.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002247.jpg",
+    "single_grounding": 0.3923224210739136,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002834.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002138.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00000850.jpg",
+    "single_grounding": 0.8283860087394714,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001476.jpg",
+    "single_grounding": 0.5734856128692627,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00004025.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001077.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002238.jpg",
+    "single_grounding": 0.3910737931728363,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002659.jpg",
+    "single_grounding": 0.9999775886535645,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00004317.jpg",
+    "single_grounding": 0.47086864709854126,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001214.jpg",
+    "single_grounding": 0.51267409324646,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002383.jpg",
+    "single_grounding": 0.06022987514734268,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00000075.jpg",
+    "single_grounding": 0.3775676488876343,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001426.jpg",
+    "single_grounding": 0.14552395045757294,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00004175.jpg",
+    "single_grounding": 0.5734856128692627,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001678.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003657.jpg",
+    "single_grounding": 0.17296941578388214,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001765.jpg",
+    "single_grounding": 0.08203519880771637,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003210.jpg",
+    "single_grounding": 0.5898336172103882,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002802.jpg",
+    "single_grounding": 0.6176155805587769,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001363.jpg",
+    "single_grounding": 0.029229938983917236,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002791.jpg",
+    "single_grounding": 0.10261216759681702,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003236.jpg",
+    "single_grounding": 0.18206913769245148,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002035.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002521.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00004242.jpg",
+    "single_grounding": 0.7988770008087158,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00004287.jpg",
+    "single_grounding": 0.8306939005851746,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002761.jpg",
+    "single_grounding": 0.33749863505363464,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001917.jpg",
+    "single_grounding": 0.07382891327142715,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00004097.jpg",
+    "single_grounding": 0.9990811347961426,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003901.jpg",
+    "single_grounding": 0.6258977055549622,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003918.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00000358.jpg",
+    "single_grounding": 0.005211248993873596,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003185.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003540.jpg",
+    "single_grounding": 0.9035941958427429,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001526.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00004019.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00004243.jpg",
+    "single_grounding": 0.9764803647994995,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003327.jpg",
+    "single_grounding": 0.9999847412109375,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00000872.jpg",
+    "single_grounding": 0.589833676815033,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001667.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003164.jpg",
+    "single_grounding": 0.3689934015274048,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002447.jpg",
+    "single_grounding": 0.589833676815033,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001424.jpg",
+    "single_grounding": 0.08397410809993744,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003355.jpg",
+    "single_grounding": 0.5890001058578491,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002809.jpg",
+    "single_grounding": 0.9999940395355225,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00000585.jpg",
+    "single_grounding": 0.5589801669120789,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003292.jpg",
+    "single_grounding": 0.589833676815033,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001848.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001869.jpg",
+    "single_grounding": 0.2646513879299164,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001582.jpg",
+    "single_grounding": 0.25144410133361816,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002897.jpg",
+    "single_grounding": 0.9975937008857727,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002988.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002524.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003946.jpg",
+    "single_grounding": 0.5598308444023132,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003762.jpg",
+    "single_grounding": 0.6437000632286072,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003265.jpg",
+    "single_grounding": 0.9999896287918091,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002189.jpg",
+    "single_grounding": 0.9999582767486572,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001647.jpg",
+    "single_grounding": 0.6533503532409668,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001482.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00004167.jpg",
+    "single_grounding": 0.9999173879623413,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003031.jpg",
+    "single_grounding": 0.589833676815033,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003199.jpg",
+    "single_grounding": 0.15739481151103973,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001878.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003663.jpg",
+    "single_grounding": 0.49364569783210754,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001757.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002490.jpg",
+    "single_grounding": 0.9997532963752747,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003961.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001243.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002845.jpg",
+    "single_grounding": 0.0009562948253005743,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003276.jpg",
+    "single_grounding": 0.05875352770090103,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001222.jpg",
+    "single_grounding": 0.8283860087394714,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002950.jpg",
+    "single_grounding": 0.20492880046367645,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002493.jpg",
+    "single_grounding": 0.9990445971488953,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001420.jpg",
+    "single_grounding": 0.9999517202377319,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001373.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001540.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003269.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001760.jpg",
+    "single_grounding": 0.3495168387889862,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003012.jpg",
+    "single_grounding": 0.45658817887306213,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001963.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00000801.jpg",
+    "single_grounding": 0.5734856128692627,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00000003.jpg",
+    "single_grounding": 0.14506439864635468,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001503.jpg",
+    "single_grounding": 0.996147871017456,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002861.jpg",
+    "single_grounding": 0.9999631643295288,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001950.jpg",
+    "single_grounding": 0.6176155805587769,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003776.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003442.jpg",
+    "single_grounding": 0.12187246978282928,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003331.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002794.jpg",
+    "single_grounding": 0.5598966479301453,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002978.jpg",
+    "single_grounding": 0.5598966479301453,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002775.jpg",
+    "single_grounding": 0.9999406337738037,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003282.jpg",
+    "single_grounding": 0.06467921286821365,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00000768.jpg",
+    "single_grounding": 0.4161137342453003,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002388.jpg",
+    "single_grounding": 0.5598966479301453,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003779.jpg",
+    "single_grounding": 0.6158056259155273,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001592.jpg",
+    "single_grounding": 0.0351288802921772,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001062.jpg",
+    "single_grounding": 0.6647467613220215,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002026.jpg",
+    "single_grounding": 0.5074551701545715,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002621.jpg",
+    "single_grounding": 0.1112823560833931,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002574.jpg",
+    "single_grounding": 0.9995743632316589,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001576.jpg",
+    "single_grounding": 0.6176155805587769,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003346.jpg",
+    "single_grounding": 0.005283541511744261,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002898.jpg",
+    "single_grounding": 0.5598966479301453,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002629.jpg",
+    "single_grounding": 0.4787008464336395,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002255.jpg",
+    "single_grounding": 0.9987857937812805,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003813.jpg",
+    "single_grounding": 0.2514438331127167,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00000748.jpg",
+    "single_grounding": 0.5454295873641968,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002111.jpg",
+    "single_grounding": 0.6176155805587769,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001944.jpg",
+    "single_grounding": 0.5734856128692627,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001775.jpg",
+    "single_grounding": 0.10261216759681702,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003467.jpg",
+    "single_grounding": 0.1038627028465271,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00004146.jpg",
+    "single_grounding": 0.9998493194580078,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002131.jpg",
+    "single_grounding": 0.9996961355209351,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002123.jpg",
+    "single_grounding": 0.8026427626609802,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001925.jpg",
+    "single_grounding": 0.0011591712245717645,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00000417.jpg",
+    "single_grounding": 0.829966127872467,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003098.jpg",
+    "single_grounding": 0.09534159302711487,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003670.jpg",
+    "single_grounding": 0.0009562938939779997,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003720.jpg",
+    "single_grounding": 0.18206913769245148,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002232.jpg",
+    "single_grounding": 0.00037478687590919435,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002001.jpg",
+    "single_grounding": 0.6176155805587769,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002882.jpg",
+    "single_grounding": 0.06467922776937485,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002300.jpg",
+    "single_grounding": 0.48194214701652527,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002030.jpg",
+    "single_grounding": 0.6273982524871826,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001228.jpg",
+    "single_grounding": 0.9999920129776001,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00000449.jpg",
+    "single_grounding": 0.9268426299095154,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00000256.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001351.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002135.jpg",
+    "single_grounding": 0.1954982876777649,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002223.jpg",
+    "single_grounding": 0.42174264788627625,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00004169.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001947.jpg",
+    "single_grounding": 0.07483000308275223,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002519.jpg",
+    "single_grounding": 0.9999953508377075,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003883.jpg",
+    "single_grounding": 0.4688265919685364,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003022.jpg",
+    "single_grounding": 0.8604909777641296,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003951.jpg",
+    "single_grounding": 0.10790899395942688,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00000934.jpg",
+    "single_grounding": 0.9438796043395996,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00004247.jpg",
+    "single_grounding": 0.5898337364196777,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001471.jpg",
+    "single_grounding": 0.9993496537208557,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001443.jpg",
+    "single_grounding": 0.5598310232162476,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002109.jpg",
+    "single_grounding": 0.5598966479301453,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001408.jpg",
+    "single_grounding": 0.9999208450317383,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001653.jpg",
+    "single_grounding": 0.6712400913238525,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001417.jpg",
+    "single_grounding": 0.5598966479301453,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003997.jpg",
+    "single_grounding": 0.5598966479301453,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002531.jpg",
+    "single_grounding": 0.5598966479301453,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00000635.jpg",
+    "single_grounding": 0.5598966479301453,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002335.jpg",
+    "single_grounding": 0.5598966479301453,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003587.jpg",
+    "single_grounding": 0.6176155805587769,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002792.jpg",
+    "single_grounding": 0.9963328838348389,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00000601.jpg",
+    "single_grounding": 0.06467921286821365,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002391.jpg",
+    "single_grounding": 0.5734856128692627,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001724.jpg",
+    "single_grounding": 0.9999518394470215,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001861.jpg",
+    "single_grounding": 0.9999631643295288,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001710.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003264.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003786.jpg",
+    "single_grounding": 0.9988681077957153,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001397.jpg",
+    "single_grounding": 0.3252032995223999,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003609.jpg",
+    "single_grounding": 0.5734856128692627,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003338.jpg",
+    "single_grounding": 0.5642320513725281,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00000335.jpg",
+    "single_grounding": 0.9963839054107666,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001841.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002066.jpg",
+    "single_grounding": 0.9386327862739563,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001498.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002552.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00004022.jpg",
+    "single_grounding": 0.9937480688095093,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001180.jpg",
+    "single_grounding": 0.06197011470794678,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00000693.jpg",
+    "single_grounding": 0.9994268417358398,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00000981.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001759.jpg",
+    "single_grounding": 0.9685873985290527,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002966.jpg",
+    "single_grounding": 0.828386127948761,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00000624.jpg",
+    "single_grounding": 0.6112172603607178,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00004050.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003192.jpg",
+    "single_grounding": 0.9999895095825195,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002009.jpg",
+    "single_grounding": 0.9996167421340942,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002274.jpg",
+    "single_grounding": 0.3374983072280884,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001751.jpg",
+    "single_grounding": 0.5004220604896545,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001496.jpg",
+    "single_grounding": 0.6176155805587769,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001609.jpg",
+    "single_grounding": 0.29399973154067993,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00000853.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00000803.jpg",
+    "single_grounding": 0.9978742599487305,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00004158.jpg",
+    "single_grounding": 0.6702017784118652,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001571.jpg",
+    "single_grounding": 0.5074551701545715,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001888.jpg",
+    "single_grounding": 0.5982415676116943,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002657.jpg",
+    "single_grounding": 0.6176155805587769,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001245.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003173.jpg",
+    "single_grounding": 0.8894950151443481,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002701.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00000570.jpg",
+    "single_grounding": 0.577087938785553,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001556.jpg",
+    "single_grounding": 0.9999631643295288,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002370.jpg",
+    "single_grounding": 0.05809338763356209,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002671.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00004134.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001249.jpg",
+    "single_grounding": 0.22476786375045776,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002725.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00000848.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001304.jpg",
+    "single_grounding": 0.5069594979286194,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003685.jpg",
+    "single_grounding": 0.1079089492559433,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00000968.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001246.jpg",
+    "single_grounding": 0.9999631643295288,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001109.jpg",
+    "single_grounding": 0.986167848110199,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002825.jpg",
+    "single_grounding": 0.6533503532409668,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001213.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00004217.jpg",
+    "single_grounding": 0.9988681077957153,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003170.jpg",
+    "single_grounding": 0.9980316758155823,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002712.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002052.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002302.jpg",
+    "single_grounding": 0.6176155805587769,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003398.jpg",
+    "single_grounding": 0.0009562948253005743,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00004079.jpg",
+    "single_grounding": 0.7444162368774414,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00000348.jpg",
+    "single_grounding": 0.999871015548706,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002759.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00000846.jpg",
+    "single_grounding": 0.9551488161087036,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002364.jpg",
+    "single_grounding": 0.5164834856987,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001300.jpg",
+    "single_grounding": 0.06467922776937485,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002299.jpg",
+    "single_grounding": 0.9999653100967407,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002663.jpg",
+    "single_grounding": 0.2452230006456375,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003297.jpg",
+    "single_grounding": 0.5598966479301453,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003262.jpg",
+    "single_grounding": 0.5898337364196777,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002254.jpg",
+    "single_grounding": 0.23497769236564636,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00000875.jpg",
+    "single_grounding": 0.5598966479301453,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001564.jpg",
+    "single_grounding": 0.3372769057750702,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003234.jpg",
+    "single_grounding": 0.5598966479301453,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003088.jpg",
+    "single_grounding": 0.10898331552743912,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001923.jpg",
+    "single_grounding": 0.9963839054107666,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003994.jpg",
+    "single_grounding": 0.6719139218330383,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003717.jpg",
+    "single_grounding": 0.5598966479301453,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00004265.jpg",
+    "single_grounding": 0.001838473486714065,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001165.jpg",
+    "single_grounding": 0.5598966479301453,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002266.jpg",
+    "single_grounding": 0.5598966479301453,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003161.jpg",
+    "single_grounding": 0.5598966479301453,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001911.jpg",
+    "single_grounding": 0.6176155805587769,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002407.jpg",
+    "single_grounding": 0.5598966479301453,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003712.jpg",
+    "single_grounding": 0.47470763325691223,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00000804.jpg",
+    "single_grounding": 0.5598966479301453,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001711.jpg",
+    "single_grounding": 0.10790901631116867,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00000779.jpg",
+    "single_grounding": 0.5898337364196777,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001810.jpg",
+    "single_grounding": 0.5598966479301453,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003862.jpg",
+    "single_grounding": 0.5598966479301453,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002492.jpg",
+    "single_grounding": 0.11557060480117798,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00004111.jpg",
+    "single_grounding": 0.5598966479301453,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001617.jpg",
+    "single_grounding": 0.4735545516014099,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00000603.jpg",
+    "single_grounding": 0.959836483001709,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003217.jpg",
+    "single_grounding": 0.6176155805587769,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002185.jpg",
+    "single_grounding": 0.3649253249168396,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001008.jpg",
+    "single_grounding": 0.6244653463363647,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001015.jpg",
+    "single_grounding": 0.5598966479301453,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003094.jpg",
+    "single_grounding": 0.9999173879623413,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00004202.jpg",
+    "single_grounding": 0.6176155805587769,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001171.jpg",
+    "single_grounding": 0.5598966479301453,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003853.jpg",
+    "single_grounding": 0.3757399320602417,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002546.jpg",
+    "single_grounding": 0.5598966479301453,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00000518.jpg",
+    "single_grounding": 0.6533504128456116,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001626.jpg",
+    "single_grounding": 0.99769526720047,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001095.jpg",
+    "single_grounding": 0.9606705904006958,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00004307.jpg",
+    "single_grounding": 0.9712399244308472,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00004059.jpg",
+    "single_grounding": 0.8804100155830383,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003749.jpg",
+    "single_grounding": 0.5598966479301453,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003722.jpg",
+    "single_grounding": 0.9999512434005737,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003967.jpg",
+    "single_grounding": 0.060229964554309845,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003203.jpg",
+    "single_grounding": 0.9999631643295288,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002126.jpg",
+    "single_grounding": 0.5598966479301453,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00004199.jpg",
+    "single_grounding": 0.8693112730979919,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002040.jpg",
+    "single_grounding": 0.5598966479301453,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00004150.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00004192.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002346.jpg",
+    "single_grounding": 0.9999853372573853,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003471.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002589.jpg",
+    "single_grounding": 0.9995743632316589,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003370.jpg",
+    "single_grounding": 0.10261218994855881,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001320.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001343.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002239.jpg",
+    "single_grounding": 0.6259893178939819,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00000352.jpg",
+    "single_grounding": 0.017470519989728928,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001401.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001355.jpg",
+    "single_grounding": 0.974927544593811,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002228.jpg",
+    "single_grounding": 0.33146175742149353,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002706.jpg",
+    "single_grounding": 0.6176155805587769,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003719.jpg",
+    "single_grounding": 0.48615509271621704,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003810.jpg",
+    "single_grounding": 0.9999750852584839,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002973.jpg",
+    "single_grounding": 0.9860506653785706,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002964.jpg",
+    "single_grounding": 0.9999631643295288,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003789.jpg",
+    "single_grounding": 7.137074135243893e-05,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003159.jpg",
+    "single_grounding": 0.9203559160232544,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003882.jpg",
+    "single_grounding": 0.6176155805587769,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003620.jpg",
+    "single_grounding": 0.0003889605577569455,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003490.jpg",
+    "single_grounding": 0.5598966479301453,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00000376.jpg",
+    "single_grounding": 0.36899349093437195,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001244.jpg",
+    "single_grounding": 0.5598966479301453,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003630.jpg",
+    "single_grounding": 0.3694933354854584,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002511.jpg",
+    "single_grounding": 0.5598966479301453,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001862.jpg",
+    "single_grounding": 0.9999631643295288,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003267.jpg",
+    "single_grounding": 0.5734856128692627,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001752.jpg",
+    "single_grounding": 0.5734856128692627,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003538.jpg",
+    "single_grounding": 0.5598966479301453,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00004092.jpg",
+    "single_grounding": 0.5018956661224365,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002282.jpg",
+    "single_grounding": 0.5598966479301453,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002098.jpg",
+    "single_grounding": 0.5598966479301453,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002140.jpg",
+    "single_grounding": 0.5598966479301453,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003741.jpg",
+    "single_grounding": 0.0004395600117277354,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003465.jpg",
+    "single_grounding": 0.5898337364196777,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003615.jpg",
+    "single_grounding": 0.999976396560669,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001224.jpg",
+    "single_grounding": 0.4117696285247803,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00000828.jpg",
+    "single_grounding": 0.5598966479301453,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002265.jpg",
+    "single_grounding": 0.5598966479301453,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003002.jpg",
+    "single_grounding": 0.5598966479301453,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003803.jpg",
+    "single_grounding": 0.9999173879623413,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002812.jpg",
+    "single_grounding": 0.47197654843330383,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002103.jpg",
+    "single_grounding": 0.6176155805587769,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001370.jpg",
+    "single_grounding": 0.5598966479301453,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00000363.jpg",
+    "single_grounding": 0.3374985158443451,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003278.jpg",
+    "single_grounding": 0.11557060480117798,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00004304.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00001743.jpg",
+    "single_grounding": 0.9741231799125671,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003698.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00002667.jpg",
+    "single_grounding": 0.7792245745658875,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003294.jpg",
+    "single_grounding": 0.9999512434005737,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003105.jpg",
+    "single_grounding": 0.55989670753479,
+    "label": 0,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "VizWiz_val_00003207.jpg",
+    "single_grounding": 0.9959118366241455,
+    "label": 1,
+    "source": "VizWiz"
+  },
+  {
+    "question_id": "353086000",
+    "single_grounding": 0.99997878074646,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "401144003",
+    "single_grounding": 0.9999966621398926,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "471056024",
+    "single_grounding": 0.5038895010948181,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "270922001",
+    "single_grounding": 0.9999992847442627,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "269590000",
+    "single_grounding": 0.9981338381767273,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "487602004",
+    "single_grounding": 0.999988317489624,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "566945000",
+    "single_grounding": 0.9998645782470703,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "142622002",
+    "single_grounding": 0.9999910593032837,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "451121002",
+    "single_grounding": 0.9682661890983582,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "65504012",
+    "single_grounding": 0.9999651908874512,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "32711012",
+    "single_grounding": 0.9999923706054688,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "161312001",
+    "single_grounding": 0.6873193383216858,
+    "label": 0,
+    "source": "VQA"
+  },
+  {
+    "question_id": "535130002",
+    "single_grounding": 0.9999938011169434,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "519376007",
+    "single_grounding": 0.9995285272598267,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "404533005",
+    "single_grounding": 0.9810879230499268,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "57515000",
+    "single_grounding": 0.9998524188995361,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "544325016",
+    "single_grounding": 0.9999547004699707,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "62160008",
+    "single_grounding": 0.07003456354141235,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "556149001",
+    "single_grounding": 0.998420238494873,
+    "label": 0,
+    "source": "VQA"
+  },
+  {
+    "question_id": "497731007",
+    "single_grounding": 0.20150791108608246,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "72229000",
+    "single_grounding": 0.9994526505470276,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "447075012",
+    "single_grounding": 0.18448477983474731,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "194643002",
+    "single_grounding": 0.999995231628418,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "401877002",
+    "single_grounding": 0.8232463598251343,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "521068001",
+    "single_grounding": 0.9998618364334106,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "327818001",
+    "single_grounding": 0.878932774066925,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "442326005",
+    "single_grounding": 0.9988995790481567,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "362141000",
+    "single_grounding": 0.21156862378120422,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "398696001",
+    "single_grounding": 0.9999372959136963,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "315795002",
+    "single_grounding": 0.11431555449962616,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "207051001",
+    "single_grounding": 0.9999412298202515,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "86183006",
+    "single_grounding": 0.9995403289794922,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "337716001",
+    "single_grounding": 0.9805194735527039,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "75754002",
+    "single_grounding": 0.9999513626098633,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "8794003",
+    "single_grounding": 0.999998927116394,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "7753004",
+    "single_grounding": 0.9998799562454224,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "239315001",
+    "single_grounding": 0.9992702603340149,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "318299009",
+    "single_grounding": 0.9999294281005859,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "224727001",
+    "single_grounding": 0.9999243021011353,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "64303001",
+    "single_grounding": 0.9315341114997864,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "401532001",
+    "single_grounding": 0.9753199815750122,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "478809004",
+    "single_grounding": 0.9999728202819824,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "184805003",
+    "single_grounding": 0.8813971281051636,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "298938003",
+    "single_grounding": 0.9999982118606567,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "158422008",
+    "single_grounding": 0.9875839352607727,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "32695002",
+    "single_grounding": 0.32520294189453125,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "322725008",
+    "single_grounding": 0.9997435212135315,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "541338000",
+    "single_grounding": 0.9998862743377686,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "129253001",
+    "single_grounding": 0.9976390600204468,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "235446001",
+    "single_grounding": 0.9637772440910339,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "95380001",
+    "single_grounding": 0.9996888637542725,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "294834008",
+    "single_grounding": 0.9945701956748962,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "400028000",
+    "single_grounding": 0.9999421834945679,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "194193000",
+    "single_grounding": 0.8927485346794128,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "337842001",
+    "single_grounding": 0.99997878074646,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "340689001",
+    "single_grounding": 0.999985933303833,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "548768000",
+    "single_grounding": 0.7942403554916382,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "483083002",
+    "single_grounding": 0.9993312358856201,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "547450011",
+    "single_grounding": 0.9978874325752258,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "529056003",
+    "single_grounding": 0.9999667406082153,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "370816004",
+    "single_grounding": 0.9990413784980774,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "39864001",
+    "single_grounding": 0.9994246959686279,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "462129003",
+    "single_grounding": 0.9985769987106323,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "513505002",
+    "single_grounding": 0.9995880722999573,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "414651000",
+    "single_grounding": 0.9891967177391052,
+    "label": 0,
+    "source": "VQA"
+  },
+  {
+    "question_id": "38257011",
+    "single_grounding": 0.9995059967041016,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "178492003",
+    "single_grounding": 0.89921635389328,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "447044001",
+    "single_grounding": 0.9999315738677979,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "334098096",
+    "single_grounding": 0.5118080973625183,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "556920002",
+    "single_grounding": 0.9976390600204468,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "261696002",
+    "single_grounding": 0.9948886036872864,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "39580000",
+    "single_grounding": 0.9990572333335876,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "86811003",
+    "single_grounding": 0.999933123588562,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "149791001",
+    "single_grounding": 0.9999912977218628,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "386389000",
+    "single_grounding": 0.9997066855430603,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "323498001",
+    "single_grounding": 0.24677985906600952,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "84129000",
+    "single_grounding": 0.2115687131881714,
+    "label": 0,
+    "source": "VQA"
+  },
+  {
+    "question_id": "515065002",
+    "single_grounding": 0.9999955892562866,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "138982000",
+    "single_grounding": 0.8647312521934509,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "230050000",
+    "single_grounding": 0.5034351348876953,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "219987002",
+    "single_grounding": 0.3250528573989868,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "383695001",
+    "single_grounding": 0.9997966885566711,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "561547000",
+    "single_grounding": 0.9997966885566711,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "349234001",
+    "single_grounding": 0.4795193076133728,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "354131000",
+    "single_grounding": 0.9998351335525513,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "351608002",
+    "single_grounding": 0.9997567534446716,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "192053002",
+    "single_grounding": 0.9998562335968018,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "545285001",
+    "single_grounding": 0.9999996423721313,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "206161006",
+    "single_grounding": 0.959723174571991,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "504657029",
+    "single_grounding": 0.9999691247940063,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "140831000",
+    "single_grounding": 0.999874472618103,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "41645000",
+    "single_grounding": 0.9728105068206787,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "212741001",
+    "single_grounding": 0.3761503994464874,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "386426010",
+    "single_grounding": 0.9983092546463013,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "406177002",
+    "single_grounding": 0.42812636494636536,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "125598000",
+    "single_grounding": 0.9998799562454224,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "40954002",
+    "single_grounding": 0.9728155732154846,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "227699000",
+    "single_grounding": 0.9999996423721313,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "149151001",
+    "single_grounding": 0.9734476208686829,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "483139001",
+    "single_grounding": 0.9776087999343872,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "503099002",
+    "single_grounding": 0.9427616000175476,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "574051002",
+    "single_grounding": 0.512528657913208,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "267049000",
+    "single_grounding": 0.9999698400497437,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "291390002",
+    "single_grounding": 0.9981335997581482,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "539705015",
+    "single_grounding": 0.9999638795852661,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "121350004",
+    "single_grounding": 0.9998447895050049,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "139932002",
+    "single_grounding": 0.9999597072601318,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "396725004",
+    "single_grounding": 0.9890650510787964,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "69339003",
+    "single_grounding": 0.9999897480010986,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "59895000",
+    "single_grounding": 0.9998205304145813,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "129108001",
+    "single_grounding": 0.9999899864196777,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "116982000",
+    "single_grounding": 0.9998905658721924,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "547130000",
+    "single_grounding": 0.9999902248382568,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "539746007",
+    "single_grounding": 0.9999222755432129,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "111425002",
+    "single_grounding": 0.9571987986564636,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "455090014",
+    "single_grounding": 0.9999955892562866,
+    "label": 0,
+    "source": "VQA"
+  },
+  {
+    "question_id": "450026003",
+    "single_grounding": 0.264454185962677,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "420859002",
+    "single_grounding": 0.9996567964553833,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "403627000",
+    "single_grounding": 0.9997372031211853,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "400555001",
+    "single_grounding": 0.9999887943267822,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "430114001",
+    "single_grounding": 0.9999880790710449,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "365950002",
+    "single_grounding": 0.9963781237602234,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "99785004",
+    "single_grounding": 0.999990701675415,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "215298024",
+    "single_grounding": 0.999995231628418,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "421274007",
+    "single_grounding": 0.9990527033805847,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "106850002",
+    "single_grounding": 0.9997584223747253,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "57500006",
+    "single_grounding": 0.9999657869338989,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "516432001",
+    "single_grounding": 0.9999961853027344,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "109386003",
+    "single_grounding": 0.5246091485023499,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "293668003",
+    "single_grounding": 0.9978627562522888,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "349291005",
+    "single_grounding": 0.9803135991096497,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "108210000",
+    "single_grounding": 0.999954104423523,
+    "label": 0,
+    "source": "VQA"
+  },
+  {
+    "question_id": "146317003",
+    "single_grounding": 0.9998645782470703,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "342363029",
+    "single_grounding": 0.9999531507492065,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "466288002",
+    "single_grounding": 0.992774486541748,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "75800002",
+    "single_grounding": 0.9998874664306641,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "506946015",
+    "single_grounding": 0.999997615814209,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "290549003",
+    "single_grounding": 0.9491376876831055,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "505864003",
+    "single_grounding": 0.9981277585029602,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "544291000",
+    "single_grounding": 0.9999291896820068,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "306222000",
+    "single_grounding": 0.9920742511749268,
+    "label": 0,
+    "source": "VQA"
+  },
+  {
+    "question_id": "249272004",
+    "single_grounding": 0.982846200466156,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "77383006",
+    "single_grounding": 0.9998384714126587,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "136949001",
+    "single_grounding": 0.6901788115501404,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "109580000",
+    "single_grounding": 0.9999984502792358,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "67985000",
+    "single_grounding": 0.9839745163917542,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "38546001",
+    "single_grounding": 0.9999982118606567,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "524056001",
+    "single_grounding": 0.46747151017189026,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "511350008",
+    "single_grounding": 0.9999637603759766,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "485632002",
+    "single_grounding": 0.7863275408744812,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "75334000",
+    "single_grounding": 0.999698281288147,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "488844000",
+    "single_grounding": 0.40434736013412476,
+    "label": 0,
+    "source": "VQA"
+  },
+  {
+    "question_id": "306089044",
+    "single_grounding": 0.9999991655349731,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "228215001",
+    "single_grounding": 0.9999957084655762,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "420524001",
+    "single_grounding": 0.9865868091583252,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "459770001",
+    "single_grounding": 0.9999830722808838,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "233153003",
+    "single_grounding": 0.9993844032287598,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "554920002",
+    "single_grounding": 0.9991181492805481,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "57919005",
+    "single_grounding": 0.9990496039390564,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "212589002",
+    "single_grounding": 0.9991446733474731,
+    "label": 0,
+    "source": "VQA"
+  },
+  {
+    "question_id": "90582002",
+    "single_grounding": 0.6582903861999512,
+    "label": 0,
+    "source": "VQA"
+  },
+  {
+    "question_id": "563138026",
+    "single_grounding": 0.9999908208847046,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "158869002",
+    "single_grounding": 0.9998356103897095,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "53351000",
+    "single_grounding": 0.9999887943267822,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "320682002",
+    "single_grounding": 0.11431555449962616,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "574370001",
+    "single_grounding": 0.9997515082359314,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "434016003",
+    "single_grounding": 0.9999915361404419,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "539197000",
+    "single_grounding": 0.9901909828186035,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "482326001",
+    "single_grounding": 0.9974883794784546,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "497731001",
+    "single_grounding": 0.9925503730773926,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "427992002",
+    "single_grounding": 0.9999984502792358,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "71229002",
+    "single_grounding": 0.9978773593902588,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "165707000",
+    "single_grounding": 0.5482311248779297,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "69205000",
+    "single_grounding": 0.48177409172058105,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "382659003",
+    "single_grounding": 0.999484658241272,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "103927001",
+    "single_grounding": 0.9999990463256836,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "99942006",
+    "single_grounding": 0.9999964237213135,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "392924006",
+    "single_grounding": 0.9982050657272339,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "522465003",
+    "single_grounding": 0.42454901337623596,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "291451000",
+    "single_grounding": 0.9995166063308716,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "61512001",
+    "single_grounding": 0.9996254444122314,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "175015000",
+    "single_grounding": 0.9910987019538879,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "359695000",
+    "single_grounding": 0.9996587038040161,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "348290000",
+    "single_grounding": 0.9803138375282288,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "533158022",
+    "single_grounding": 0.9851285219192505,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "139932001",
+    "single_grounding": 0.8163413405418396,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "143095000",
+    "single_grounding": 0.9993616938591003,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "515717000",
+    "single_grounding": 0.9999855756759644,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "567416000",
+    "single_grounding": 0.9993768334388733,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "334098059",
+    "single_grounding": 0.9978669285774231,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "507334007",
+    "single_grounding": 0.9885340332984924,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "289212005",
+    "single_grounding": 0.2666293680667877,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "32639009",
+    "single_grounding": 0.8377328515052795,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "492705003",
+    "single_grounding": 0.43816301226615906,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "333411001",
+    "single_grounding": 0.9999830722808838,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "181509004",
+    "single_grounding": 0.9999752044677734,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "206161003",
+    "single_grounding": 0.9999985694885254,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "47684002",
+    "single_grounding": 0.9999728202819824,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "396725023",
+    "single_grounding": 0.9998812675476074,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "308143005",
+    "single_grounding": 0.9999403953552246,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "267560001",
+    "single_grounding": 0.841046154499054,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "575029016",
+    "single_grounding": 0.9997619986534119,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "567245001",
+    "single_grounding": 0.9994940757751465,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "504140001",
+    "single_grounding": 0.5879725217819214,
+    "label": 0,
+    "source": "VQA"
+  },
+  {
+    "question_id": "24922015",
+    "single_grounding": 0.9999873638153076,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "268150003",
+    "single_grounding": 0.9994879961013794,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "493251001",
+    "single_grounding": 0.999976396560669,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "381996002",
+    "single_grounding": 0.9999740123748779,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "33938003",
+    "single_grounding": 0.9999362230300903,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "139551005",
+    "single_grounding": 0.30924347043037415,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "563270005",
+    "single_grounding": 0.9996123909950256,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "358378003",
+    "single_grounding": 0.9776086807250977,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "318904000",
+    "single_grounding": 0.9723321795463562,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "523114025",
+    "single_grounding": 0.994321346282959,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "279787000",
+    "single_grounding": 0.9999887943267822,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "24922004",
+    "single_grounding": 0.9999517202377319,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "417818002",
+    "single_grounding": 0.9929595589637756,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "203882002",
+    "single_grounding": 0.3141520619392395,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "67373003",
+    "single_grounding": 0.7745407223701477,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "270865001",
+    "single_grounding": 0.9999794960021973,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "342363028",
+    "single_grounding": 0.6594893932342529,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "148004003",
+    "single_grounding": 0.9999761581420898,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "236386002",
+    "single_grounding": 0.6199132800102234,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "311822002",
+    "single_grounding": 0.9999608993530273,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "455090008",
+    "single_grounding": 0.656967282295227,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "169006003",
+    "single_grounding": 0.9976390600204468,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "137366002",
+    "single_grounding": 0.3299448788166046,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "138473006",
+    "single_grounding": 0.9999985694885254,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "504454000",
+    "single_grounding": 0.999697208404541,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "481820003",
+    "single_grounding": 0.9997836947441101,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "500390000",
+    "single_grounding": 0.9994090795516968,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "32949002",
+    "single_grounding": 0.9998102784156799,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "512282008",
+    "single_grounding": 0.26445430517196655,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "67566016",
+    "single_grounding": 0.8387374877929688,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "76462002",
+    "single_grounding": 0.3078525960445404,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "510500000",
+    "single_grounding": 0.9992687106132507,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "21330002",
+    "single_grounding": 0.07776391506195068,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "342211002",
+    "single_grounding": 0.9993240833282471,
+    "label": 1,
+    "source": "VQA"
+  },
+  {
+    "question_id": "208088000",
+    "single_grounding": 0.9853383302688599,
+    "label": 1,
+    "source": "VQA"
+  }
+]

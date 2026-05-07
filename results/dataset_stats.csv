@@ -1,0 +1,7 @@
+source,split,examples,single,multiple,unlabeled
+VizWiz,train,2146,1713,433,0
+VizWiz,val,407,309,98,0
+VizWiz,test,889,0,0,889
+VQA,train,1648,1542,106,0
+VQA,val,239,228,11,0
+VQA,test,496,0,0,496

@@ -1,0 +1,17 @@
+{
+  "note": "Analysis only; uses ground-truth polygons.",
+  "summary": [
+    {
+      "label": "single",
+      "count": 537,
+      "mean_num_polygons": 2.1284916201117317,
+      "mean_centroid_distance": 0.0004906888300678016
+    },
+    {
+      "label": "multiple",
+      "count": 109,
+      "mean_num_polygons": 2.1376146788990824,
+      "mean_centroid_distance": 0.12214538817038047
+    }
+  ]
+}
