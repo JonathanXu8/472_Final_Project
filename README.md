@@ -51,6 +51,12 @@ results/clip_mlp/metrics.json -> val_best_threshold -> f1
 
 The current saved Colab CLIP run achieved validation F1 `0.9220`, improving over the majority baseline F1 `0.9079`.
 
+## Expected Runtime and Hardware
+
+Expected runtime is about `25-45 minutes` on a single Google Colab T4 GPU after the raw images are already downloaded and extracted. The first run is slower because CLIP image/text features are computed and cached under `results/clip_mlp/feature_cache/`; later runs that reuse the cache usually take only a few minutes to retrain the MLP head.
+
+CPU-only execution is possible but not recommended for the CLIP feature extraction step.
+
 ## Model
 
 The model freezes `openai/clip-vit-base-patch32` and extracts:
