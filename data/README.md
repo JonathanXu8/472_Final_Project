@@ -4,7 +4,7 @@ Annotations are downloaded automatically by the code from:
 
 `https://vizwiz.cs.colorado.edu/VizWiz_AnswerTherapy/Annotation.zip`
 
-Raw images are not included because they are large. The CLIP model requires images under:
+Raw images are not included because they are too big. The CLIP model requires images under:
 
 `data/raw_images/`
 
@@ -28,5 +28,5 @@ unzip -q data/raw_images/coco_val2014.zip -d data/raw_images
 unzip -q data/raw_images/coco_test2015.zip -d data/raw_images
 ```
 
-The image lookup supports exact VizWiz filenames and COCO-style zero-padded IDs.
+The image lookup supports exact VizWiz filenames and COCO tyle with zero padded IDs.
 

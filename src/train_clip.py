@@ -64,12 +64,12 @@ def main() -> None:
     cache_dir = out_dir / "feature_cache"
     cache_dir.mkdir(parents=True, exist_ok=True)
 
-    print("Extracting or loading CLIP features...")
+    print("Extracting or loading CLIP features")
     cx_train = cached_clip_features("train", train, cache_dir, image_dir, processor, clip_model, device, args.batch_size)
     cx_val = cached_clip_features("val", val, cache_dir, image_dir, processor, clip_model, device, args.batch_size)
     cx_test = cached_clip_features("test", test, cache_dir, image_dir, processor, clip_model, device, args.batch_size)
 
-    print("Computing grid-region features...")
+    print("Computing grid-region features")
     gx_train = image_grid_features(train, image_dir)
     gx_val = image_grid_features(val, image_dir)
     gx_test = image_grid_features(test, image_dir)
@@ -116,7 +116,7 @@ def main() -> None:
             stale += 1
         if epoch == 1 or epoch % 10 == 0:
             print(f"epoch {epoch:03d} best_f1={best_f1:.4f}")
-        if stale >= 12:
+        if stale >= 24:
             break
 
     assert best_state is not None and best_scores is not None
